@@ -39,4 +39,4 @@ def test_merge_sort():
     print(merge_sort([1]))
     print(merge_sort([]))
 
-test_merge_sort()
+#test_merge_sort()
